@@ -3,6 +3,9 @@
 ## Project Overview
 This project demonstrates fundamental SystemC concepts through the implementation of a complete integer multiplier testbench. The design follows SystemC best practices and showcases key concepts learned from the Doulos SystemC training materials and hands-on implementation.
 
+## Environment
+Linux environment on UC Irvine's remote server.
+
 ## SystemC Architecture & Design
 
 ### Module Hierarchy
